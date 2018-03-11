@@ -1,2 +1,3 @@
-# udacityIntro2DS
-Some code for Udacity's Intro to Data Science Course
+# Udacity's Intro to Data Science Course
+
+Mapper & reducer implemented using dictionary-based approach.
